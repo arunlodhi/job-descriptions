@@ -4,7 +4,7 @@
 
 ### Job Summary:
 
-As the Head of Engineering at our social commerce startup, you will lead the technical vision and strategy, ensuring the successful development and delivery of innovative and scalable software solutions. Your role will involve overseeing the engineering department, managing cross-functional teams, and collaborating with product managers to bring our vision to life. As a hands-on leader, you will be responsible for driving technical excellence, fostering a culture of innovation, and delivering high-quality products that meet user needs and exceed expectations.
+As the Head of Engineering at our organization, you will lead the technical vision and strategy, ensuring the successful development and delivery of innovative and scalable software solutions. Your role will involve overseeing the engineering department, managing cross-functional teams, and collaborating with product managers to bring our vision to life. As a hands-on leader, you will be responsible for driving technical excellence, fostering a culture of innovation, and delivering high-quality products that meet user needs and exceed expectations.
 
 ### Key Responsibilities:
 
