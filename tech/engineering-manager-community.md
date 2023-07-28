@@ -4,7 +4,7 @@
 
 ### Job Summary:
 
-As the Engineering Manager for the Community team of our social commerce app, you will lead a group of passionate software engineers dedicated to building and enhancing the community engagement aspects of our platform. You will collaborate with product managers, designers, and community managers to deliver a vibrant and interactive social experience for our users. Your role will be instrumental in driving technical excellence, fostering a culture of creativity, and ensuring the successful delivery of high-quality features that strengthen the social fabric of our social commerce platform.
+As the Engineering Manager for the Community team of our social commerce app, you will lead a group of passionate software engineers dedicated to building and enhancing the community engagement aspects of our platform. You will collaborate with product managers, designers, and community managers to deliver a vibrant and interactive social experience for our users. Your role will be instrumental in driving technical excellence, fostering a culture of creativity, and ensuring the successful delivery of high-quality features that strengthen the social fabric of our platform.
 
 ### Key Responsibilities:
 

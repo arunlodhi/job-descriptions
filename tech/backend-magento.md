@@ -4,7 +4,7 @@
 
 ### Job Summary:
 
-As a Backend Developer (Magento) at our social commerce startup, you will be responsible for the development and maintenance of the backend infrastructure of our Magento-based e-commerce platform. Your primary focus will be on ensuring the platform's stability, performance, and scalability while seamlessly integrating it with various social media channels. You will work closely with the frontend development team, product managers, and other stakeholders to implement new features, optimize existing functionalities, and deliver an exceptional user experience.
+As a Backend Developer (Magento) at our organization, you will be responsible for the development and maintenance of the backend infrastructure of our Magento-based e-commerce platform. Your primary focus will be on ensuring the platform's stability, performance, and scalability while seamlessly integrating it with various social media channels. You will work closely with the frontend development team, product managers, and other stakeholders to implement new features, optimize existing functionalities, and deliver an exceptional user experience.
 
 ### Key Responsibilities:
 

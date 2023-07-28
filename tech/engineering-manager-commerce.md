@@ -4,7 +4,7 @@
 
 ### Job Summary:
 
-As the Engineering Manager for the Commerce team of our social commerce app, you will lead a group of talented software engineers focused on developing and maintaining the commerce-related functionalities of our platform. You will collaborate with cross-functional teams, including product managers, designers, and data scientists, to deliver a seamless and delightful shopping experience to our users. Your role will be crucial in driving technical excellence, fostering a culture of innovation, and ensuring the successful delivery of high-quality commerce features that contribute to the growth and success of our social commerce platform.
+As the Engineering Manager for the Commerce team of our social commerce app, you will lead a group of talented software engineers focused on developing and maintaining the commerce-related functionalities of our platform. You will collaborate with cross-functional teams, including product managers, designers, and data scientists, to deliver a seamless and delightful shopping experience to our users. Your role will be crucial in driving technical excellence, fostering a culture of innovation, and ensuring the successful delivery of high-quality commerce features that contribute to the growth and success of our platform.
 
 ### Key Responsibilities:
 

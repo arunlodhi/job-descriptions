@@ -4,7 +4,7 @@
 
 ### Job Summary:
 
-As a Data Science Engineer at our social commerce startup, you will be at the forefront of driving data-driven decision-making and enhancing user experiences on our platform. Your role will involve applying advanced data analytics and machine learning techniques to extract valuable insights from user behavior, product interactions, and social interactions. You will collaborate with cross-functional teams, including data scientists, software engineers, and product managers, to design and implement data solutions that optimize our social commerce platform and personalize user recommendations.
+As a Data Science Engineer at our organization, you will be at the forefront of driving data-driven decision-making and enhancing user experiences on our platform. Your role will involve applying advanced data analytics and machine learning techniques to extract valuable insights from user behavior, product interactions, and social interactions. You will collaborate with cross-functional teams, including data scientists, software engineers, and product managers, to design and implement data solutions that optimize our platform and personalize user recommendations.
 
 ### Key Responsibilities:
 
@@ -16,11 +16,11 @@ As a Data Science Engineer at our social commerce startup, you will be at the fo
 
 - **Social Network Analysis:** Analyze social network data to understand user connections, influence, and community dynamics, providing insights to improve social engagement and user retention.
 
-- **A/B Testing and Experimentation:** Design and conduct A/B tests and experiments to evaluate the effectiveness of data-driven improvements and optimize the social commerce platform.
+- **A/B Testing and Experimentation:** Design and conduct A/B tests and experiments to evaluate the effectiveness of data-driven improvements and optimize the platform.
 
 - **Data Visualization and Communication:** Present findings and insights to stakeholders in a clear and actionable manner, leveraging data visualizations and reports.
 
-- **Collaboration:** Work closely with data scientists, software engineers, and product managers to integrate data-driven features into our social commerce platform.
+- **Collaboration:** Work closely with data scientists, software engineers, and product managers to integrate data-driven features into our platform.
 
 - **Performance Optimization:** Optimize data processes, models, and algorithms for scalability, efficiency, and real-time responsiveness.
 
